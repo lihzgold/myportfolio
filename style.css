@@ -1,0 +1,336 @@
+body{
+    background-color: #2e302e;
+    margin: auto;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.Eli{
+    color: white;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    margin: 10px;
+    color: #4a604a;
+    font-size: 18px;
+}
+.nav-bar a:hover{
+    color: whitesmoke;
+}
+ 
+.nav-bar{
+    margin-right: 350px;
+    margin-top: 45px;
+
+}
+.let{
+    margin-top: 30px;
+    margin-right: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    background-color: orange;
+    font-size: 15px;
+    font-weight: 550;
+    /* padding-top: 5px; */
+    /* padding-bottom: 5px; */
+    border: none;
+}
+.let:hover{
+    background-color: #ffbb00;
+}
+
+.introduction{
+    display: flex;
+}
+
+.content{
+    color: whitesmoke;
+    margin-left: 100px;
+    /* margin-bottom: 300px; */
+    /* margin-top: 100px; */
+}
+.liz{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-top: 130px;
+}
+h1{
+    font-size: 60px;
+    /* margin-bottom: 100px; */
+}
+img{
+    margin-top: 200px;
+    margin-right: 80px;
+
+}
+.scroll{
+    color: whitesmoke;
+    margin-bottom: 250px;
+    font-size: 24px;
+    margin-right: 50px;
+}
+
+
+
+.biography{
+    display: flex;
+    color: whitesmoke;
+    /* justify-content: center; */
+    margin: 100px;
+    
+}
+.writeup{
+    font-size: 22px;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 40px;
+    line-height: 40px;
+    /* justify-content: center; */
+    /* justify-self: center; */
+
+    
+}
+
+.unleash{
+    font-size: 40px;
+}
+
+.moreee{
+    border: 2px solid white;
+    background-color: #2e302e;
+    color: white;
+    margin-top: 40px;
+    /* margin-right: 80px; */
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+}
+.iconic  a{
+    color: white;
+    font-size: 25px;
+    margin: 8px;
+    
+}
+.iconic{
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.moreee:hover{
+    background-color: white;
+    color: black;
+}
+
+.iconic{
+    color: white;
+}
+
+.abt{
+    font-size: 28px;
+    color: orange;
+}
+
+
+
+.general-expertise{
+    display: flex;
+    color: black;
+    justify-content: center;
+    background-color: white
+
+}
+.expertise{
+    margin-top: 150px;
+    margin-left: 70px;
+    margin-right: 30px;
+}
+.expertise .exp{
+    font-size: 25px;
+    color: orange;
+
+}
+.key{
+    font-size: 70px;
+}
+.skilled{
+    font-size: 25px;
+}
+.services{
+    border: 2px solid black;
+    background-color: white;
+    padding: 20px 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 18px;
+    border-radius: 10px 10px;
+    margin-top: 50px;
+
+}
+.services:hover{
+    color: white;
+    background-color: black;
+}
+.major-areas{
+    margin-top: 200px;
+    margin-right: 70px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+.no{
+    color: orange;
+    font-weight: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    
+}
+.major-areas h2{
+    font-size: 33px;
+}
+.major-areas p{
+font-size: 22px;
+}
+
+.consultation{
+    display: flex;
+    flex-direction: column;
+    /* display: inline-block; */
+    background-color: rgb(0, 0, 0);
+    color: white;
+    align-items: center;
+    justify-content: center;
+
+}
+.together{
+    border: 1px solid black;
+    padding: 25px 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    background-color: orange;
+    font-size: 15px;
+    border: none; 
+    margin-bottom: 250px;  
+}
+.together:hover{
+    background-color: #ffbb00;
+}
+.consultation p{
+    font-size: 23px;
+    margin-right: 250px;
+    margin-left: 250px;
+    color: rgb(239, 239, 239);
+
+    
+}
+.consultation h1{
+    margin-top: 150px;
+    margin-left: 350px;
+    margin-right: 250px;
+    font-size: 70px;
+    color: seashell;
+}
+
+.footer{
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: rgb(186, 181, 181);
+    /* margin-bottom: 50px; */
+    
+    
+}
+
+.about-monica{
+    font-size: 20px;
+    margin-left: 90px;
+    margin-right: 50px;
+}
+.sites{
+    margin-right: 200px;
+    
+}
+
+.letters{
+    margin-right: 100px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+
+.footer h2{
+    font-size: 35px;
+    color: rgb(239, 239, 239);
+}
+
+.lastnav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(186, 181, 181);
+    
+}
+
+.lastnav a:hover{
+    color: white;
+}
+
+/* .former{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    background-color: rgb(57, 55, 55);
+    border-radius: 5px;
+    border: none; 
+    
+} */
+
+.suscribee{
+    border: 1px solid black;
+    padding: 25px 25px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 5px;
+    background-color: orange;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.suscribee:hover{
+    background-color: #ffbb00;
+}
+
+.iconista i{
+    color: rgb(186, 181, 181);
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+input[ type=text]{
+    width: 75%;
+    padding: 25px 25px;
+    border: none;
+    background-color: rgb(57, 55, 55);
+    border-radius: 4px;
+    color: white;
+}
+
+input[ type=text]:focus{
+    outline: none;
+    border: 1px solid orange;
+}
+
+
